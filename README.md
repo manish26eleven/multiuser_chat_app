@@ -1,2 +1,2 @@
 # multiuser_chat_app
-this repositery contains multiuser chat application using concepts of java, it has used socket proframming for networking ,swing for gui,jdbc for database connectivity,MD5 for password hashing and mysql as databse.
+This repositery contains Multiuser Chat Application using concepts of java , it has used Socket Programming for Networking , Swing for GUI , JDBC for database connectivity , MD5 for password hashing , mysql as Database and MultiThreading concepts for handling Multiple Cllient simultaneosly.
